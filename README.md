@@ -40,3 +40,7 @@
   -Jika pengguna memilih nomor yang tidak valid, maka program akan menampilkan pesan "Pilihan menu tidak valid!".
 
 # output
+![Screenshot (50)](https://github.com/user-attachments/assets/98a28dae-6056-432d-ad58-c2489abba923)
+![Screenshot (51)](https://github.com/user-attachments/assets/dee0bfdc-97e7-417b-8044-8303f866aa3c)
+![Screenshot (52)](https://github.com/user-attachments/assets/19ee1fa4-9bbf-42c3-a873-77ce400c1ea9)
+![Screenshot (53)](https://github.com/user-attachments/assets/a2daebe5-badf-4b0c-bc1a-36fcd359def0)
