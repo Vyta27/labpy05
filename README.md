@@ -44,3 +44,7 @@
 ![Screenshot (51)](https://github.com/user-attachments/assets/dee0bfdc-97e7-417b-8044-8303f866aa3c)
 ![Screenshot (52)](https://github.com/user-attachments/assets/19ee1fa4-9bbf-42c3-a873-77ce400c1ea9)
 ![Screenshot (53)](https://github.com/user-attachments/assets/a2daebe5-badf-4b0c-bc1a-36fcd359def0)
+
+# Flowchart
+![Screenshot 2024-11-23 161437](https://github.com/user-attachments/assets/00520569-1492-45fe-a7d0-7586cb7767bb)
+
