@@ -1,1 +1,1 @@
-# labpy05
+# PRAKTIKUM 6 PERTEMUAN KE - 10
